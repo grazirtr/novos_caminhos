@@ -23,3 +23,6 @@ git push -u origin master (manda a atualização para o repositório remoto)
 
 git clone url
 (baixa os arquivos do github para a máquina local)
+
+git pull 
+(atualiza a máquina local com os arquivos do servidor remoto)
